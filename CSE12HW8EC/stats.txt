@@ -1,0 +1,12 @@
+1 resize, load factor 0.42307693 0 collisions
+2 resize, load factor 0.3846154 1 collisions
+3 resize, load factor 0.3653846 8 collisions
+4 resize, load factor 0.35576922 20 collisions
+5 resize, load factor 0.3533654 38 collisions
+6 resize, load factor 0.35216346 91 collisions
+7 resize, load factor 0.35096154 137 collisions
+8 resize, load factor 0.35036057 269 collisions
+9 resize, load factor 0.35021034 521 collisions
+10 resize, load factor 0.3501352 1058 collisions
+11 resize, load factor 0.3500601 2124 collisions
+12 resize, load factor 0.35002252 4360 collisions
